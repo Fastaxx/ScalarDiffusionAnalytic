@@ -56,8 +56,8 @@ def plot_solutions(x, t, k1, k2, He, x0, C0):
 if __name__ == "__main__":
     # Parameters
     k1 = 1.0  # Diffusion coefficient in domain 1
-    k2 = 1.0  # Diffusion coefficient in domain 2
-    He = 1.0  # Henry's constant
+    k2 = 4.0  # Diffusion coefficient in domain 2
+    He = 2.0  # Henry's constant
     C0 = 1.0
     x0 = 0.0  # Interface position
     
