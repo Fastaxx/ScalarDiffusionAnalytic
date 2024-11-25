@@ -49,7 +49,7 @@ We consider a one-dimensional diffusion problem where two semi-infinite media me
 
 **Governing Equations**:
 
-- For $$ x < x_0 $$:
+- For x < x0 :
   $$
   \frac{\partial c_1}{\partial t} = D_1 \frac{\partial^2 c_1}{\partial x^2}
   $$
