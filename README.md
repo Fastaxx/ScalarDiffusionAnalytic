@@ -59,7 +59,7 @@ We consider a one-dimensional diffusion problem where two semi-infinite media me
 - **Concentration Discontinuity (Henry's Law)**:
   $$c_1(x_0, t) = \alpha c_2(x_0, t)$$
 - **Flux Continuity**:
-  $$D_1 \left \frac{\partial c_1}{\partial x} \right|_{x = x_0^-} = D_2 \left \frac{\partial c_2}{\partial x} \right|_{x = x_0^+}$$
+  $$D_g\frac{\partial c_1}{\partial r}\_{x_0}=D_l\frac{\partial c_2}{\partial r}\_{x_0}$$
 
 **Solution Approach**:
 
@@ -88,7 +88,7 @@ We analyze diffusion from a circular bubble (in 2D) of radius $$R_0$$ into the s
 - **Henry's Law**:
   $$c_g(R_0, t) = \alpha c_l(R_0, t)$$
 - **Flux Continuity**:
-  $$D_g \left \frac{\partial c_g}{\partial r} \right|_{r = R_0^-} = D_l \left \frac{\partial c_l}{\partial r} \right|_{r = R_0^+}$$
+  $$D_g\frac{\partial c_g}{\partial r}\_{R_0}=D_l\frac{\partial c_l}{\partial r}\_{R_0}$$
 
 **Solution Approach**:
 
