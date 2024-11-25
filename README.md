@@ -223,4 +223,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Mathematical References**:
   - Crank, J. *The Mathematics of Diffusion*. Oxford University Press.
   - Palas Kumar Farsoiya, Stéphane Popinet, and Luc Deike. Bubble-mediated transfer of dilute gas in turbulence. Journal of Fluid Mechanics, 920(A34), June 2021.
-- **Community Support**: Thanks to the open-source community for providing tools and libraries that make this project possible.
