@@ -79,9 +79,7 @@ We analyze diffusion from a circular bubble (in 2D) of radius $$R_0$$ into the s
 - Inside the bubble (gas phase):
   $$\frac{\partial c_g}{\partial t} = D_g \left( \frac{\partial^2 c_g}{\partial r^2} + \frac{1}{r} \frac{\partial c_g}{\partial r} \right)$$
 - Outside the bubble (liquid phase):
-  $$
-  \frac{\partial c_l}{\partial t} = D_l \left( \frac{\partial^2 c_l}{\partial r^2} + \frac{1}{r} \frac{\partial c_l}{\partial r} \right)
-  $$
+  $$\frac{\partial c_l}{\partial t} = D_l \left( \frac{\partial^2 c_l}{\partial r^2} + \frac{1}{r} \frac{\partial c_l}{\partial r} \right)$$
 
 **Interface Conditions**:
 
