@@ -45,7 +45,7 @@ Python scripts to compute the analytical solutions of the 2-phase diffusion prob
 
 **Problem Statement**:
 
-We consider a one-dimensional diffusion problem where two semi-infinite media meet at an interface located at $$ x = x0 $$. The diffusivities in the two media are $$ D_1 $$ and $$ D_2 $$, respectively.
+We consider a one-dimensional diffusion problem where two semi-infinite media meet at an interface located at $$x = x0$$. The diffusivities in the two media are $$D_1$$ and $$D_2$$, respectively.
 
 **Governing Equations**:
 
@@ -72,7 +72,7 @@ We consider a one-dimensional diffusion problem where two semi-infinite media me
 
 **Problem Statement**:
 
-We analyze diffusion from a circular bubble (in 2D) of radius $$ R_0 $$ into the surrounding medium.
+We analyze diffusion from a circular bubble (in 2D) of radius $$R_0$$ into the surrounding medium.
 
 **Governing Equations**:
 
@@ -100,7 +100,7 @@ We analyze diffusion from a circular bubble (in 2D) of radius $$ R_0 $$ into the
 
 **Problem Statement**:
 
-We consider diffusion from a spherical bubble (in 3D) of radius $$ R_0 $$ into the surrounding liquid.
+We consider diffusion from a spherical bubble (in 3D) of radius $$R_0$$ into the surrounding liquid.
 
 **Governing Equations**:
 
