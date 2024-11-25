@@ -51,7 +51,7 @@ We consider a one-dimensional diffusion problem where two semi-infinite media me
 
 - For x < x0 :
   $$\frac{\partial c_1}{\partial t} = D_1 \frac{\partial^2 c_1}{\partial x^2}$$
-- For \( x > x_0 \):
+- For \( x > x0 \):
   $$\frac{\partial c_2}{\partial t} = D_2 \frac{\partial^2 c_2}{\partial x^2}$$
 
 **Interface Conditions**:
@@ -114,7 +114,7 @@ We consider diffusion from a spherical bubble (in 3D) of radius $$R_0$$ into the
 - **Henry's Law**:
   $$c_g(R_0, t) = \alpha c_l(R_0, t)$$
 - **Flux Continuity**:
-  $$D_g \frac{\partial c_g}{\partial r}_{r = R_0} = D_l \frac{\partial c_l}{\partial r}_{r = R_0}$$
+  $$D_g$$
 
 **Solution Approach**:
 
