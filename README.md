@@ -114,7 +114,7 @@ We consider diffusion from a spherical bubble (in 3D) of radius $$R_0$$ into the
 - **Henry's Law**:
   $$c_g(R_0, t) = \alpha c_l(R_0, t)$$
 - **Flux Continuity**:
-  $$D_g\frac{\partial c_g}{\partial r}_{R_0}=D_l\frac{\partial c_l}{\partial r}_{R_0}$$
+  $$D_g\frac{\partial c_g}{\partial r}\_{R_0}=D_l\frac{\partial c_l}{\partial r}\_{R_0}$$
 
 **Solution Approach**:
 
