@@ -7,7 +7,7 @@ import warnings
 
 # Define parameters
 Dg = 1.0    # Diffusivity inside the bubble (gas phase) [m^2/s]
-Dl = 1.0    # Diffusivity outside the bubble (liquid phase) [m^2/s]
+Dl = 4.0    # Diffusivity outside the bubble (liquid phase) [m^2/s]
 R0 = 1.0    # Bubble radius [m]
 d0 = 2 * R0  # Bubble diameter [m]
 alpha = 1.0  # Dimensionless Henry's law constant
